@@ -24,6 +24,8 @@ with this program. If not, visit: https://www.gnu.org/licenses/
 */
 
 
+function b4dplug_action_hook(){
+    wp_mail('baicu4design@gmail.com','Subject','Here goes the message');
+}
 
-
-
+add_action('init', 'b4dplug_action_hook');
