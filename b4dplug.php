@@ -29,3 +29,4 @@ function b4dplug_action_hook(){
 }
 
 add_action('init', 'b4dplug_action_hook');
+/*Here below is going to be the rest of the code*/
