@@ -1,4 +1,4 @@
-# b4dplug
+# B4D Plugin
 This is a custom plugin I've created for wordpress!
 
 ## This really needs another header
